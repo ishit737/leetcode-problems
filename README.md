@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishit737/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishit737/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishit737/leetcode-problems/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ishit737/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishit737/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishit737/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishit737/leetcode-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishit737/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishit737/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishit737/leetcode-problems/tree/master/0268-missing-number) |
 ## Math
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ishit737/leetcode-problems/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishit737/leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishit737/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
