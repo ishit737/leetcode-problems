@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ishit737/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ishit737/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ishit737/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3618-split-array-by-prime-indices](https://github.com/ishit737/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ishit737/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ishit737/leetcode-problems/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ishit737/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3618-split-array-by-prime-indices](https://github.com/ishit737/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ishit737/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ishit737/leetcode-problems/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [3618-split-array-by-prime-indices](https://github.com/ishit737/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->
