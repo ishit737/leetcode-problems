@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishit737/leetcode-problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ishit737/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ishit737/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ishit737/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ishit737/leetcode-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ishit737/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/ishit737/leetcode-problems/tree/master/0867-transpose-matrix) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-split-array-by-prime-indices](https://github.com/ishit737/leetcode-problems/tree/master/3618-split-array-by-prime-indices) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ishit737/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
